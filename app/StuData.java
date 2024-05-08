@@ -1,5 +1,4 @@
 public class StuData {
-
     String id;
     String name;
     String height;
