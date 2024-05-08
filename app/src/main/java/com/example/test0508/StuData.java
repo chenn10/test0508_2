@@ -1,3 +1,5 @@
+package com.example.test0508;
+
 public class StuData {
     String id;
     String name;

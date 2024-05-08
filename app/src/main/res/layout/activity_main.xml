@@ -39,4 +39,5 @@
         android:textAppearance="@style/TextAppearance.AppCompat.Large"
         app:layout_constraintStart_toStartOf="@+id/tvname"
         app:layout_constraintTop_toBottomOf="@+id/tvname" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
